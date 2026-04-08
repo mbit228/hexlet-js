@@ -1,6 +1,6 @@
-import _ from "lodash";
+import _ from 'lodash'
 const myFunction = () => {
-  console.log(_.last(['one', 'two']));
-};
+  console.log(_.last(['one', 'two']))
+}
 
-export default myFunction;
+export default myFunction

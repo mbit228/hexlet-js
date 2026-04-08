@@ -1,4 +1,4 @@
-import myFunction from './src/index.js';
+import myFunction from './src/index.js'
 
-console.log("Hello, Hexlet");
-myFunction();
+console.log('Hello, Hexlet')
+myFunction()
